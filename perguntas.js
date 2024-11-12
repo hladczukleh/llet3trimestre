@@ -21,3 +21,16 @@ criaCartao(
     'Como se diz oi em Inglês?',
     'Oi em ingles é HI (RAI)'
 )
+
+criaCartao(
+    'Matematica',
+    'Qual a raiz de 81?',
+    'A raiz de 81 é 9'
+)
+
+criaCartao(
+    'Geografia',
+    'Qual a capital da França?',
+    'Paris'
+)
+
