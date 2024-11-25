@@ -23,14 +23,14 @@ criaCartao(
 )
 
 criaCartao(
-    'Matematica',
-    'Qual a raiz de 81?',
-    'A raiz de 81 é 9'
+    'cores',
+    'qual é a cor do céu ?',
+    'é azul'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'Paris'
+    'Matematica',
+    'Quantos é 2+2?',
+    'a reposta é 4'
 )
 
