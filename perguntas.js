@@ -33,4 +33,3 @@ criaCartao(
     'Quantos é 2+2?',
     'a reposta é 4'
 )
-
